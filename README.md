@@ -1,5 +1,5 @@
 sebuah aplikasi d3ngan fitur login
 
-memasukan email dan pw
-memvalidasi masukan
-menampilkan halaman beranda
+1. memasukan email dan pw
+2. memvalidasi masukan
+3. menampilkan halaman beranda
